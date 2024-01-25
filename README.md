@@ -1,4 +1,4 @@
-# CodSoft Level 2 - TASK 2 of Web Development 
+# CodSoft Level 1 - TASK 2 of Web Development 
 # Task 2 - Portfolio Website
 
 Creating a personal portfolio using CSS and HTML is a popular web development
